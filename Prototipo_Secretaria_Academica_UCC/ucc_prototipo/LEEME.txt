@@ -1,0 +1,12 @@
+PROTOTIPO INTERACTIVO — SECRETARÍA ACADÉMICA UCC
+
+1. Abrí el archivo index.html con Firefox, Chrome o cualquier navegador actualizado.
+2. No necesitás instalar nada ni conectarte a Internet para ver la demostración.
+3. La barra superior se mantiene y coexiste con siete tarjetas de áreas.
+4. Las tarjetas redirigen a las páginas oficiales de la UCC (requieren Internet).
+5. Probá el selector de apariencia (claro, oscuro y automático). La preferencia se guarda localmente.
+6. Probá el carrusel de noticias: se mueve automáticamente cada 5 segundos, excepto si se usa el teclado, el puntero o si el usuario pidió reducir movimiento; tocar una flecha detiene permanentemente la rotación en esa visita.
+7. Probá el formulario de demostración: NO envía ni guarda datos personales.
+8. Reducí el ancho de la ventana para ver la adaptación a celulares y el menú móvil.
+
+Este prototipo no sustituye el sitio oficial de la UCC. La redacción institucional del párrafo principal se inspiró en el texto público de https://ucc.edu.ar/academica/ . Algunos bloques contienen contenido expresamente marcado como ilustrativo. Los datos personales, direcciones de correo y horarios deberán ser validados por la universidad antes de una implementación real. El emblema UCC en texto es una representación simplificada, no el logotipo oficial.
